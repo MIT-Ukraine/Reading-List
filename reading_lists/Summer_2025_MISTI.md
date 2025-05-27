@@ -5,7 +5,7 @@
 *Updated: 27 May, 2025*
 <br/> 
 
-## State Craft
+## Statecraft
 Tsanyu & Olha
 <br/> 
 ### Perspectives
