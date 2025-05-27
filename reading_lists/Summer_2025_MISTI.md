@@ -65,8 +65,8 @@ Alicia
 - [FediMod FIRES](https://fires.fedimod.org/)
 - [Garden Fence - Fediverse Blocklist](https://gardenfence.github.io/)
 - [How to Set Up a Mastodon Server](https://www.liquidweb.com/blog/how-to-set-up-mastodon-server/)
-- [Mastodo Doc](https://docs.joinmastodon.org/user/run-your-own/)
-
+- [Mastodon Doc](https://docs.joinmastodon.org/user/run-your-own/)
+- [Mastodon - Content Moderation](https://docs.joinmastodon.org/admin/moderation/)
 
 <br/> 
 
