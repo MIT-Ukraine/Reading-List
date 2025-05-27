@@ -1,6 +1,7 @@
 # MIT Ukraine (Summer 2025 MISTI) - Reading List
 
 **Maintainers**: Nina Lutz, Yara Kyrychenko & Phil Tinn
+*Update: 27 May, 2025*
 <br/> 
 
 ## State Craft
