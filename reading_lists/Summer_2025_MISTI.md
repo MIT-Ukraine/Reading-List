@@ -61,12 +61,13 @@ Alicia
 
 ### Technical
 
+- [Collaborative Content Moderation in the Fediverse](https://arxiv.org/pdf/2501.05871)
 - [ActivityPub](https://en.wikipedia.org/wiki/ActivityPub)
 - [FediMod FIRES](https://fires.fedimod.org/)
 - [Garden Fence - Fediverse Blocklist](https://gardenfence.github.io/)
 - [How to Set Up a Mastodon Server](https://www.liquidweb.com/blog/how-to-set-up-mastodon-server/)
 - [Mastodon Doc](https://docs.joinmastodon.org/user/run-your-own/)
 - [Mastodon - Content Moderation](https://docs.joinmastodon.org/admin/moderation/)
-- [Collaborative Content Moderation in the Fediverse](https://arxiv.org/pdf/2501.05871)
+
 <br/> 
 
