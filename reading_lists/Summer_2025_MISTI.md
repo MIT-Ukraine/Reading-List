@@ -28,7 +28,7 @@ Tsanyu & Olha
 ### Technical
 - [Social identity correlates of social media engagement before and after the 2022 Russian invasion of Ukraine](https://www.nature.com/articles/s41467-024-52179-8)
 
-- [Data Visualizations as Propaganda: Tracing Lineages, Provenance, and Political Framings in Online Anti-Immigrant Discourse](https://github.com/MIT-Ukraine/Digital-Frontlines/blob/main/reading_lists/PDFs/nina_priya_kate_cscw_2025.pdf)
+- [Data Visualizations as Propaganda: Tracing Lineages, Provenance, and Political Framings in Online Anti-Immigrant Discourse](https://github.com/MIT-Ukraine/Reading-List/blob/main/reading_lists/PDFs/nina_priya_kate_cscw_2025.pdf)
 
 - [Stop the [Image] Steal: The Role and Dynamics of Visual Content in the 2020 U.S. Election Misinformation Campaign](https://dl.acm.org/doi/10.1145/3555599)
 
